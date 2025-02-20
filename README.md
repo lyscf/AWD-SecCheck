@@ -17,6 +17,18 @@ AWD-SecCheck 是一个针对 AWD（Attack With Defense）竞赛环境编写的�
 - 网络连接和端口检查
 - 启动项和服务检查
 
+
+## 运行截图
+
+
+![](image.png)
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
+![](image-4.png)
+![](image-5.png)
+![](image-6.png)
+
 ## 功能特点
 
 - **自动化检查**：脚本自动化执行多种安全检查任务，减少手动操作的工作量。
